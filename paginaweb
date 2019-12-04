@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<!---Okay, for some reason all of my projects have been unevaluated, so I'm resubmitting this q-q
+
+    Appreciation Thread (in approximate order from oldest post to most recent; I'll add these when I have time)
+I'm not used to HTML, so sorry if this looks messy...
+~Thank you to @SavvyScriptStudios for telling me KA only allows Wikipedia servers (other than the ones already available), I can finally add some pictures! :D
+
+~Thank you @Authordeepabhat for these ideas: Disneyland, Yosemite National Park, L.A, San Diego, San Francisco(the golden gate bridge, crooked street, china town, Alcatraz), and Universal Studios.
+
+~Thank you @TheCentroid for these ideas:San Diego(Lego land, Disneyland), LA( Movies!, BIG hollywood sign!), SF(Chinatown,  Egg rolls, Golden Gate Bridge)!
+
+~Thank you @Anna14Love for these ideas: Pajaro Dunes, the Jellybean Factory, exclusive shopping areas, Mimi's Restaruant, swimming, and the Golden Gate bridge; I didn't forget the Golden Gate bridge, I couldn't find any pictures earlier (due to the whole Wikipedia servers only allowed)
+
+~Thank you @jtt44313 for this idea: Legoland! Yes of course, that's an awesome idea.... but there's so much to add, so you might have to wait awhile. Sorry I still haven't finished adding details yet ;;
+
+And of course, thanks to everyone who voted and made spin offs of this ;v; Thanks so much for helping me get this to the hot list ^^ I'm really sorry I haven't edited this in awhile :c I'll try to get to it later (inb4 I forget again because my memory sucks)
+
+
+
+
+
+<--To-do List
+Disneyland
+Yosemite National Park: Waiting list (as is everything below)
+Morro Bay (<-I was there August 7-8, 2015!)
+Solvang (<-I was there August 8-10, 2015)
+Los Angeles
+San Diego
+Universal Studios
+Pajaro Dunes
+The Jellybean Factory
+Exclusive shopping areas
+Mimi's Restaraunt
+Swimming
+Request away, just know this: It'll probably take me awhile to get through this list, so you might have to wait awhile before I finish doing your idea.-->
+<!--Completed Ideas
+Chinatown
+San Francisco
+Legoland
+Hollywood
+-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>California, Here We Come! (Adding more things~)</title>
+        <style>
+        body{
+          background-color:rgb(9, 240, 202);
+          font-family: cursive;
+          
+        }
+        .image{
+        text-align:center;
+        }
+        .title{
+            text-align:center;
+        }
+         #food{
+            color:rgb(0, 153, 255);
+            background-color:rgb(230, 52, 39);
+        }
+        #icecream{
+            color:rgb(255, 255, 255);
+            background-color:rgb(5, 47, 69);
+        }
+        #ranch{
+            background-color:rgb(255, 255, 255);
+            color:rgb(125, 255, 181);
+        } 
+        #places{
+            color:rgb(46, 158, 29);
+            background-color:rgb(64, 26, 1);
+        }
+        #beaches{
+            color:rgb(179, 135, 68);
+            background-color:rgb(17, 0, 255);
+        }
+        #Chinatown{
+            color:rgb(255, 0, 0);
+            background-color:rgb(255, 255, 0);
+        }
+        #hollywood{
+            color:rgb(255, 255, 255);
+            background-color:rgb(0, 0, 0);
+        }
+        #legoland{
+            color:rgb(255, 255, 255);
+            background-color:rgb(255, 0, 0);
+        }
+        #mountains{
+            color:rgb(82, 59, 25);
+            background-color:rgb(29, 240, 78);
+        }
+        #sf{
+            color:rgb(255, 150, 0);
+            background-color:rgb(5, 95, 250);
+        }
+        #seaworld{
+            color:rgb(10, 51, 255);
+            background-color:rgb(0, 0, 0);
+        }
+       
+ 
+        .intro{
+        font-family:cursive;
+        
+        }
+        .reasons{
+        padding:20px;
+        border:2px double blue;
+        }
+        .top.part{
+        font-family: cursive;
+        }
+        .x{
+            color:rgb(242, 117, 34);
+        }
+        </style>
+    </head>
+    <body>
+    <div class="top.part">
+        <h1>Travel to California</h1>
+        <h2><span class='x'>Pack your bags, we're going to California! :D<br>
+        </span></h2>
+<span class="intro">
+        <p>You may be wondering, <em>why</em> should <em>I</em> go to California?<br>
+What's wrong with my <strong>perfectly</strong> good home?<br>
+<br>
+Before I continue, let me get this straight: I'm not saying there's anything wrong with your home (unless you're living in a dump because you want to; in that case I have no idea what to say). In fact, I'm sure your house is really nice.<br>
+But what's wrong with visiting new places?<br>
+<br>
+Here's why <strong><em>I </em></strong> believe you should go:<br>
+
+    <a href="#food">Food and drink: </a><br>
+    <a href="#icecream">-Ice Cream</a><br>
+    <a href="#ranch">-Ranch</a><br>
+    
+    <br>
+    <a href="#places">Places to visit:</a><br>
+    <a href="#beaches">-Beaches</a><br>
+    <a href="#Chinatown">-Chinatown</a><br>
+    <a href="#hollywood">-Hollywood</a><br>
+    <a href="#mountains">-Mountains</a><br>
+    <a href="#legoland">-Legoland</a><br>
+    <a href="#sf">-San Francisco</a> <br>
+    <a href="#seaworld">-Sea World</a>
+</p></span>
+
+</div></body>
+<div class="reasons">
+<h1 id="food" class="title">Food and Drink</h1>
+
+<h2 id="icecream" class="title">Ice Cream!</h2>
+        <li>Strawberry</li>
+        <li>Lemon</li>
+        <li>Both!</li>
+        <li>You name it, it probably exists!</li>
+        <p>And if you go in the summertime, it's the perfect excuse to eat <strong>ice cream</strong>! No one I've met can say no to ice cream (except those with lactose introlerance, but even those people love ice cream).</p>
+        <img src="https://www.kasandbox.org/programming-images/food/ice-cream.png" width="100%" height="200 px">
+        
+        <h2 id="ranch" class="title">Ranch</h2>
+        <p>Ranch dressing was invented in Santa Barbara in the 1950s, though today it can be found just about anywhere as a popular salad dressing or sauce. Made from buttermilk, sour cream, yogurt, onions, garlic, and other seasonings, it's a refreshing contrast to the vegetables and meat it is typically paired with!</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranch_dressing.jpg" width="100%" height="200 px">
+        
+<h1 id="places" class="title">Places to Visit</h1>
+<h2 id="beaches" class="title">Beaches!</h2>
+     <ul>
+        <li>Long Beach</li>
+        <li>Catalina Island</li>
+        <li> And more!</li>
+    </ul>
+<p>Well, Catalina Island isn't a beach, but it's an island and I had tons of fun when I went there. Here's some activities I did while I was there:
+     <ul>
+        <li>Kayaking</li>
+        <li>Swimming</li>
+        <li>Scuba Diving</li>
+        <li>All of the above in the ocean, of course!</li>
+        <li>Hiking</li>
+        <li>Sleep, of course! I was in a cabin, while some of my friends were in tents. Try to get a cabin, I heard the tents weren't that great.</li>
+    </ul>
+<p>If you've ever been to California, you know there's awesome beaches!<br>
+    No one can deny wanting to relax on a beach, right?</p>
+<img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width="49%" height="200 px">
+<img src="https://www.kasandbox.org/programming-images/landscapes/beach-with-palm-trees.png" width="50%" height="200 px">
+
+<h2 id="Chinatown" class="title">Chinatown</h2>
+           <p> Whether or not you believe it, California has 9 chinatowns. (<a href="https://en.wikipedia.org/wiki/Chinatowns_in_the_United_States">Source</a>) Two you may be more familiar with (or have heard of at the very least) are the ones in:</p>
+<div class="image"><li>Los Angeles</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/China_Town_main_plaza.JPG" width="50%" height="200 px">
+<li>San Francisco</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/1_chinatown_san_francisco_arch_gateway.JPG" width="50%" height="200 px"></div>
+        
+        <h2 id="hollywood" class="title">Home of Hollywood</h2>
+        <p>Everyone knows Hollywood is in California... right? Unless they live under a rock, then that would be a good excuse. <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Hollywood_Sign_PB050006.jpg" width="100%" height="90 px">
+        </p>
+            
+        <h2 id="legoland" class="title">Legoland</h2>
+        <p>There's not much to say here, except... who doesn't want to play in a place made out of legos? One Legoland is located in San Diego, and there may also be a Lego Hotel located in the same place.</p>
+        <div class="image"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Legoland_California_logo.svg/1280px-Legoland_California_logo.svg.png" width="50%"></div>
+        
+        <h2 id="mountains" class="title">Mountains!</h2>
+        <p>You should also visit Big Bear mountain! There are plenty of mountains around if you don't want to visit Big Bear, though. You can go hiking, and, if there's a lake nearby, kayaking, canoeing, perhaps even swimming!</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/landscapes/mountains-and-lake.png" width="100%" height="200px">
+            <h2 id="sf" class="title">San Francisco</h2>
+            <p>This is where the famous Golden Gate bridge is located, among other things!</p>
+        
+        
+           <h3 class="title">- The Golden Gate Bridge</h3>
+           <p>Some Fun Facts:</p>
+           <li>Today, it  has the ninth-longest suspension span in the world.</li>
+           <li>Total length: Including approaches, 1.7 miles (8,981 feet or 2,737 m)</li>
+           <li>Width: 90 feet (27 m)</li>
+           <li>Total weight when built: 894,500 tons (811,500,000 kg)</li>
+           <li>Total weight today: 887,000 tons (804,700,000 kg). Weight reduced because of new decking material</li>
+           <p><a href="http://gocalifornia.about.com/cs/sanfrancisco/a/ggbridge_3.htm"> See Source Here</a></p>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Cirrus_Clouds_over_Golden_Gate_Bridge.JPG" width="49%" height="200 px">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg" width ="50%" height="200 px">
+           
+           <h3 class="title">-Crooked Street</h3>
+           <p>This is actually isn't the crookedest street in San Francisco, much less the world. It's not even the entire street: It's part of Lombard Street. However, it does have several turns.<br><br>
+               Why? For safety reasons: This street was built on a steep hill, so the turns were created for both aesthetic appeal and to increase the safety of this. If the fact that this actually isn't even the crookedest street in San Francisco makes you want to go somewhere else, well you can still take pictures here, and it will be good exercise if you walk the entire road, no? I'm kidding, walking the entire way would probably be a tiring idea, but taking pictures is always fun, no? And you can send pictures to your friends, telling them you visited the crookedest street in the world (<em>Shhhh they don't need to know about this program or that this place isn't the crookedest street in San Francisco!</em>)<br>
+<a href="http://www.sftodo.com/lomabardcrookedstreet.html"> See Source Here</a>
+           </p>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Sanfran_61_bg_032605.jpg" width="100%" height="200 px">
+           
+           <h3 class="title">-Alcatraz Island</h3>
+           <p>If I'm not mistaken, prisoners used to be kept here and often went insane. On the left is a picture of Alcatraz by day, the right is one of it by night (personally, I think most places look better at sunset or at night with lights on).</p>
+           <div class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Alcatraz_Island.JPG" width="49%" height="200 px">
+           <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Alcatraz_Island_at_Sunset.jpg" width="50% px" height="200 px"></div>
+           
+           
+           <h2 id="seaworld" class="title">SEA WORLD!</h2>
+            <p>Home of shamu, one of my favorite animals in the world! I have a stuffed animal version, and it's practically half my height (okay, I <em>am </em> pretty short but it's really big). Sea World also has penguins :D One is located in San Diego!</p>
+            <img src="https://www.kasandbox.org/programming-images/animals/penguins.png" width="49%" height="200 px">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/0703_SD_Breaching02.jpg/300px-0703_SD_Breaching02.jpg" width="50% px" height="200 px">
+           
+            
+        </div>
+
+        <p>Now that you've seen all the <strong>wonderfully amazing</strong> reasons to go (so far, anyways; more is coming <em>soon</em>), hurry up and pack your bags before I leave you behind!</p>
+        <a href="#top">Back to Top</a>
+
+</html>
+<!-- :o Thank you for all the votes! I'm crying right now TuT
+Tears of joy, of course! This got on the hot list! *starts squealing excitedly and dances happily* Oops, you weren't supposed to see me dancing! D: *flees and barricades herself (yes I'm a girl) behind infinite piles of random objects* But seriously, this is the first and only program of mine that has EVER been at the top of a hot list!!!! I mean, my emoticons have been on the first page (can you imagine that torture? I'd never wanted to be on a hot list before since I thought it was pointless, but when those BOTH got on the first page, my hopes went up, but they never made it qq), but that's not number 1. I'm rambling now oh joy.-->
